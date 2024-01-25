@@ -1,0 +1,39 @@
+.gpt__feature_cont-title h1{
+    line-height: 2rem;
+    font-size: 1.2rem;
+    color: var(--text);
+}
+.gpt__cont_text{
+    line-height: 2rem;
+}
+.gpt__what-chat{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    flex-wrap: wrap;
+   
+}
+.gpt__title-bar{
+    width: 1rem;
+    height: .5rem;
+    color: #ffffff;
+}
+.gpt__features-container{
+    padding: .5rem;
+    display: flex;
+    justify-content: space-between;
+}
+.gpt__feature_cont-title h1,.gpt__cont_text p{
+    color: #ffffff;
+}
+.gpt__cont_text p{
+    color: #ffffff;
+    line-height: 2rem;
+}
+.gpt__title-bar{
+    width:5rem;
+    height:  1rem;
+    background-color: white;
+
+}

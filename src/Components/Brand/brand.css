@@ -1,0 +1,18 @@
+.gpt__brand-icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* gap: 3rem; */
+    flex-wrap: wrap;
+    margin-top: 2rem;
+    color: #ffffff;
+}
+.gpt__brand-icons div{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+    min-height: 120px;
+    min-width: 150px;
+}
